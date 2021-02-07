@@ -1,0 +1,4 @@
+build/*
+code/.kdev4/*
+*.kdev4
+*~
